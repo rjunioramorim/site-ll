@@ -80,7 +80,7 @@ export default function Home() {
                 <div className="bg-white p-8 rounded-lg shadow-md hover:shadow-xl transition-shadow">
                   <Calendar className="w-10 h-10 text-blue-900 mb-4" />
                   <h3 className="text-xl font-bold mb-2 text-blue-900">Data</h3>
-                  <p className="text-gray-700">28 e 29 de Novembro de 2024</p>
+                  <p className="text-gray-700">11 e 12 de Dezembro de 2024</p>
                 </div>
                 <div className="bg-white p-8 rounded-lg shadow-md hover:shadow-xl transition-shadow">
                   <Clock className="w-10 h-10 text-blue-900 mb-4" />
@@ -91,7 +91,7 @@ export default function Home() {
                   <MapPin className="w-10 h-10 text-blue-900 mb-4" />
                   <h3 className="text-xl font-bold mb-2 text-blue-900">Local</h3>
                   <p className="text-gray-700">
-                    Ciçera Espaço de Eventos e Negócios
+                    Espaço Sensação Eventos
                     <br />
                     <span className="text-sm">
                       Rua Netinho Bacelar nº 30 - Colina das Mangueiras
@@ -187,7 +187,7 @@ export default function Home() {
                 <div>
                   <h4 className="font-bold text-xl mb-4">Informações Importantes</h4>
                   <p className="text-gray-400">Vagas limitadas a 25 participantes</p>
-                  <p className="text-gray-400 mt-2">Inscrições até 18 de Novembro</p>
+                  <p className="text-gray-400 mt-2">Inscrições até 10 de Dezembro</p>
                 </div>
               </div>
             </div>
